@@ -13,5 +13,4 @@ attempting to clone and run this bot in its current state will not work!
 
 ## at a glance
 
-https://github.com/o77tsen/nabi-bot/assets/88957235/0bb71f05-e1d0-4fd8-b987-66148229142c
-
+https://github.com/o77tsen/nabi-bot/assets/88957235/cc58777b-8fb3-4962-b10e-d6f7bfbbe010
