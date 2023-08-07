@@ -12,4 +12,6 @@ attempting to clone and run this bot in its current state will not work!
 - further modification of the shop may be required to prevent an overload of buttons
 
 ## at a glance
-https://github.com/o77tsen/nabi-bot/assets/88957235/0f901564-01c5-4deb-a9d8-1858af289faa
+
+https://github.com/o77tsen/nabi-bot/assets/88957235/0bb71f05-e1d0-4fd8-b987-66148229142c
+
